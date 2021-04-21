@@ -2,4 +2,4 @@
 
 integrantes
 - Rosa Maria Perez Fajardo (institucional)
-- Maria Camila Pastrana Cavadia (institucional)
+
